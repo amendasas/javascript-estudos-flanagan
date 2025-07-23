@@ -1,10 +1,7 @@
-# Exercícios - JavaScript: O Guia Definitivo
+# Prática com 200 Exercícios de JavaScript
 
-Repositório com meus exercícios resolvidos durante o estudo do livro **"JavaScript: O Guia Definitivo"** de David Flanagan.
+Este repositório contém a resolução dos desafios do livro:
 
-## Livro
-- Título: JavaScript: O Guia Definitivo (6ª Edição)
-- Autor: David Flanagan
+**“200 Exercícios de JavaScript: Explore todos os recursos de JS através de exercícios com solução e explicação”**, de **Matheus Battisti**.
 
-## Objetivo
-Consolidar o aprendizado de JavaScript com foco em fundamentos, lógica e boas práticas.
+Este projeto é parte da minha jornada de estudos em JavaScript, combinando a leitura teórica do livro _“JavaScript: O Guia Definitivo”_ de David Flanagan com exercícios práticos propostos por Matheus Battisti.
